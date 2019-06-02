@@ -1,0 +1,16 @@
+.jumbotron{
+	background-image: url(../Imagenes/1...jpg);
+	background-color: #000000;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	padding: 100px 25;
+			}
+
+.container-fluid {
+	padding: 50px 100px;
+}
+.bg-black {
+	background-color: #000000;
+}
